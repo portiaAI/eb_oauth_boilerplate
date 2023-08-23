@@ -1,6 +1,6 @@
 # OAuth Setup Tutorial Boilerplate
 
-Learning to set up OAuth Authentication within your web application can be daunting. This repo contains the starter code to follow along with the OAuth Setup Tutorial found here
+Learning to set up OAuth Authentication within your web application can be daunting. This repo contains the starter code to follow along with the OAuth Setup Tutorial found [HERE](https://medium.com/@martinmurjas/getting-started-with-oauth-authentication-45a71173a080)
 
 ## Setup and Running
 
